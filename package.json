@@ -1,6 +1,6 @@
 {
-  "name": "hexo-deployer-rsync",
-  "version": "0.1.2",
+  "name": "hexo-deployer-rsync-sec",
+  "version": "0.1.4",
   "description": "Rsync deployer plugin of Hexo.",
   "main": "index",
   "scripts": {
@@ -12,11 +12,11 @@
   "directories": {
     "lib": "./lib"
   },
-  "repository": "hexojs/hexo-deployer-rsync",
+  "repository": "arunbakt/hexo-deployer-rsync-sec",
   "homepage": "http://hexo.io/",
   "keywords": [
     "hexo",
-    "rsync",
+    "rsync-sec",
     "deploy",
     "deployer"
   ],
